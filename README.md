@@ -2,19 +2,19 @@
 ----------------------------------
 
 [![download](/images/icon-google-play.png)]
-(https://play.google.com/store/apps/details?id=com.amolecoin)
+(https://t.me/amolecoin)
 
 ###bitcoin done right
 
-This is the Android port of the amolecoin iOS app, which can be found [here](https://github.com/amolecoin/amolecoin/).
+This is the Android port of the amolecoin iOS app, which can be found [here](https://github.com/amolecoin/amolewallet-ios/).
 
-#####a completely standalone bitcoin wallet:
+#####a completely standalone amolecoin wallet:
 
-Unlike many other bitcoin wallets, amolecoin is a real standalone amolecoin
+Unlike many other bitcoin wallets, amolewallet is a real standalone amolecoin
 client. There is no server to get hacked or go down, so you can always access
 your money. Using
 [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients)
-mode, amolecoin connects directly to the bitcoin network with the fast
+mode, amolewallet connects directly to the bitcoin network with the fast
 performance you need on a mobile device.
 
 #####the next step in wallet security:
@@ -25,7 +25,7 @@ web and desktop wallets.
 
 #####beautiful simplicity:
 
-Simplicity is amolecoin's core design principle. A simple backup phrase is
+Simplicity is amolewallet's core design principle. A simple backup phrase is
 all you need to restore your wallet on another device if yours is ever lost or
 broken.  Because amolecoin is  
 [deterministic](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki),
